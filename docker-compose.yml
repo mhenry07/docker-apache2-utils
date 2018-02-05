@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  utils:
+    build: .
+    volumes:
+      - "./:/var/tmp/shared"
+    working_dir: /var/tmp/shared
