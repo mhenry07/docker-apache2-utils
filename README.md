@@ -2,7 +2,7 @@
 
 Alpine-based image with apache2-utils package
 
-The main purpose is to provide `htpasswd` in a tiny package (~5 MB) for systems the lack it.
+The main purpose is to provide `htpasswd` in a tiny package (~5 MB) for systems that lack it.
 
 ## Usage
 
